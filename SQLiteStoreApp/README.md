@@ -1,10 +1,7 @@
-# StoreApp SQLite - React Native
+## What We Must Add
 
-StoreApp SQLite is a simple inventory management app built with React Native and SQLite. It allows users to create, update, delete, and filter products by category within the app.
-
-## Features
-
-- **Create Product**: Add new products to the inventory.
-- **Update Product**: Edit existing product details (name, price, category).
-- **Delete Product**: Remove products from the inventory.
-- **Filter Products by Category**: View products filtered by their assigned category.
+- **Create Profile**: Add profile (ensure they can edit profile and view order history).
+- **Create Cart**: Edit existing product details (name, price, category).
+- **Dynamic Routing**: Products must be dynamically routed (if possible, but not necessary tbh).
+- **Add Database for Adding Products to Cart**: There is only a database for inputing products on the site for right now.
+- **Login Page**: Create a single login, make it simple (idc if it's hard coded tbh) and make sure it shows when it is invalid.
